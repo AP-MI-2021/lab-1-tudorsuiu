@@ -28,6 +28,7 @@ def get_cmmdc_v2(x, y):
   
 def main():
   # interfata de tip consola aici
+  print("Implementare finalizata")
 
 if __name__ == '__main__':
   main()
